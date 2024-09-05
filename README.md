@@ -1,4 +1,4 @@
-# Swift - Mini Projecto de interfaz práctica de turismo
+# Swift - Mini Proyecto de interfaz práctica de turismo
 
 <p align="center">
   <img src="AppTurismo/Resources/Assets.xcassets/turismo_front.imageset/turismo_front.png">
